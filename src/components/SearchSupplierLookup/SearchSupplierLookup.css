@@ -1,0 +1,40 @@
+.search-container {
+    padding: 20px;
+}
+
+.input-field {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.button {
+    margin-top: 10px;
+}
+
+.table-result {
+    background-color: #d5ceeb;
+}
+
+.table-container {
+    margin-top: 20px;
+}
+
+.no-results {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.center {
+    text-align: center;
+}
+
+.table-row {
+    .name {
+        font-weight: bold; 
+    }
+}
+
+.table-row:hover {
+    background-color: #e0f7fa;
+    cursor: pointer;
+}
